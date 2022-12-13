@@ -1,5 +1,3 @@
-### Hi there, this README is a WIP!
-
 <!--
 **kitavendano/kitavendano** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,5 +12,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=22c6nvrk6mqcw2sebhg4ju5pq&cover_image=true&theme=default&show_offline=false&background_color=121212&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=22c6nvrk6mqcw2sebhg4ju5pq&cover_image=false&theme=default&show_offline=false&background_color=121212&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
+
 ![Twitter Follow](https://img.shields.io/twitter/follow/kit1k1t1?style=social)
