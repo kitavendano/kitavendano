@@ -1,6 +1,8 @@
-### 👋 Hello visitor,
+### 👋 Hello,
 
-<h3>Actually I have nothing to show.</h3>
+![Readme Quotes](https://dev-humor.vercel.app/api?type=horizontal&theme=dark)
+
+<h3>Actually I have nothing to show 😂</h3>
 <p>I don't have open source projects/awards/awesome stuff to show off so I'm just gonna show off my rescues. Please say hi to them before you leave. 🐶🐱 </p>
 <p>
   <img src="https://raw.githubusercontent.com/kitavendano/kitavendano/main/images/itlog.png" height=100/>
@@ -22,13 +24,13 @@
 <div align="center">
   <p>
     <a href="https://akf.org.ph/">
-        <img src="https://raw.githubusercontent.com/kitavendano/kitavendano/main/images/akf.png" width="300" alt="Image" />
+        <img src="https://raw.githubusercontent.com/kitavendano/kitavendano/main/images/akf.png" width="250" alt="Image" />
     </a>
     <a href="https://www.soidog.org/">
-      <img src="https://raw.githubusercontent.com/kitavendano/kitavendano/main/images/sea-shepherd.png" width=300/>
+      <img src="https://raw.githubusercontent.com/kitavendano/kitavendano/main/images/sea-shepherd.png" width=250/>
     </a>
     <a href="https://www.seashepherdglobal.org/">
-      <img src="https://raw.githubusercontent.com/kitavendano/kitavendano/main/images/soi-dog.png" width=300/>
+      <img src="https://raw.githubusercontent.com/kitavendano/kitavendano/main/images/soi-dog.png" width=250/>
     </a>
   </p>
 </div>
@@ -47,7 +49,11 @@
       <img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white" alt="Twitter" />
     </a>
   </p>
+  <br/>
+  <br/>
+  <span>(I really just wanted to add this now playing on spotify thing because it's cool)</span>
+  <p>
+    <img src="https://spotify-github-profile.vercel.app/api/view?uid=22c6nvrk6mqcw2sebhg4ju5pq&cover_image=true&theme=default&show_offline=true&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false" alt="Spotify" />
+    <img src="https://spotify-recently-played-readme.vercel.app/api?user=22c6nvrk6mqcw2sebhg4ju5pq&unique=true&count=7" alt="Recently Played" />
+  </p>
 </div>
-
-<span>(I really just wanted to add this now playing on spotify thing because it's cool)</span>
-<img src="https://spotify-github-profile.vercel.app/api/view?uid=22c6nvrk6mqcw2sebhg4ju5pq&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false" alt="Spotify" />
