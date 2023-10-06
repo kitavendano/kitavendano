@@ -19,30 +19,35 @@
 <h3>You might also want to check out some organizations that I care about</h3>
 <p>As you can see, these three organizations are all about animal welfare. Supporting them means that we are a step closer to a future with better conditions for them. </p>
 
-<p>
-  <a href="https://akf.org.ph/">
-      <img src="https://raw.githubusercontent.com/kitavendano/kitavendano/main/images/akf.png" width="300" alt="Image" />
-  </a>
-  <a href="https://www.soidog.org/">
-    <img src="https://raw.githubusercontent.com/kitavendano/kitavendano/main/images/sea-shepherd.png" width=300/>
-  </a>
-  <a href="https://www.seashepherdglobal.org/">
-    <img src="https://raw.githubusercontent.com/kitavendano/kitavendano/main/images/soi-dog.png" width=300/>
-  </a>
-</p>
+<div align="center">
+  <p>
+    <a href="https://akf.org.ph/">
+        <img src="https://raw.githubusercontent.com/kitavendano/kitavendano/main/images/akf.png" width="300" alt="Image" />
+    </a>
+    <a href="https://www.soidog.org/">
+      <img src="https://raw.githubusercontent.com/kitavendano/kitavendano/main/images/sea-shepherd.png" width=300/>
+    </a>
+    <a href="https://www.seashepherdglobal.org/">
+      <img src="https://raw.githubusercontent.com/kitavendano/kitavendano/main/images/soi-dog.png" width=300/>
+    </a>
+  </p>
+</div>
 
-<h3>Wow you're still here? Say hi!</h3>
-<p>or not. just a suggestion.</p>
-<p>
-  <a href="https://www.instagram.com/_avndnkt/">
-    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" alt="Instagram" height="30" />
-  </a>
-  <a href="https://www.linkedin.com/in/marikit-a-47a14716b/">
-    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="https://twitter.com/kit1k1t1">
-    <img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white" alt="Twitter" />
-  </a>
-</p>
+<div align="center">
+  <h3>Wow you're still here? Say hi!</h3>
+  <p>or not. just a suggestion.</p>
+  <p>
+    <a href="https://www.instagram.com/_avndnkt/">
+      <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" alt="Instagram" height="30" />
+    </a>
+    <a href="https://www.linkedin.com/in/marikit-a-47a14716b/">
+      <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    </a>
+    <a href="https://twitter.com/kit1k1t1">
+      <img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white" alt="Twitter" />
+    </a>
+  </p>
+</div>
 
+<span>(I really just wanted to add this now playing on spotify thing because it's cool)</span>
 <img src="https://spotify-github-profile.vercel.app/api/view?uid=22c6nvrk6mqcw2sebhg4ju5pq&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false" alt="Spotify" />
