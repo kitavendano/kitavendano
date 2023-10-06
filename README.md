@@ -22,13 +22,13 @@
 <div align="center">
   <p>
     <a href="https://akf.org.ph/">
-        <img src="https://raw.githubusercontent.com/kitavendano/kitavendano/main/images/akf.png" width="300" alt="Image" />
+        <img src="https://raw.githubusercontent.com/kitavendano/kitavendano/main/images/akf.png" width="250" alt="Image" />
     </a>
     <a href="https://www.soidog.org/">
-      <img src="https://raw.githubusercontent.com/kitavendano/kitavendano/main/images/sea-shepherd.png" width=300/>
+      <img src="https://raw.githubusercontent.com/kitavendano/kitavendano/main/images/sea-shepherd.png" width=250/>
     </a>
     <a href="https://www.seashepherdglobal.org/">
-      <img src="https://raw.githubusercontent.com/kitavendano/kitavendano/main/images/soi-dog.png" width=300/>
+      <img src="https://raw.githubusercontent.com/kitavendano/kitavendano/main/images/soi-dog.png" width=250/>
     </a>
   </p>
 </div>
