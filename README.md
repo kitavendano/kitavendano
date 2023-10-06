@@ -1,8 +1,8 @@
 ### 👋 Hello visitor,
 
 <h3>Actually I have nothing to show.</h3>
-<p>I don't have open source projects/awards/awesome stuff to show off so I'm just gonna show off my pets. Please say hi to them before you leave. 🐶🐱 </p>
-<p style="background-color: #333;">
+<p>I don't have open source projects/awards/awesome stuff to show off so I'm just gonna show off my rescues. Please say hi to them before you leave. 🐶🐱 </p>
+<p>
   <img src="https://raw.githubusercontent.com/kitavendano/kitavendano/main/images/itlog.png" height=100/>
   <img src="https://raw.githubusercontent.com/kitavendano/kitavendano/main/images/kerb.png" height=100/>
   <img src="https://raw.githubusercontent.com/kitavendano/kitavendano/main/images/munggo.png" height=100/>
@@ -16,7 +16,23 @@
   <img src="https://raw.githubusercontent.com/kitavendano/kitavendano/main/images/pong.png" height=100/>
 </p>
 
-<h3>🔍 Find me on</h3>
+<h3>You might also want to check out some organizations that I care about</h3>
+<p>As you can see, these three organizations are all about animal welfare. Supporting them means that we are a step closer to a future with better conditions for them. </p>
+
+<p>
+  <a href="https://akf.org.ph/">
+      <img src="https://raw.githubusercontent.com/kitavendano/kitavendano/main/images/akf.png" width="300" alt="Image" />
+  </a>
+  <a href="https://www.soidog.org/">
+    <img src="https://raw.githubusercontent.com/kitavendano/kitavendano/main/images/sea-shepherd.png" width=300/>
+  </a>
+  <a href="https://www.seashepherdglobal.org/">
+    <img src="https://raw.githubusercontent.com/kitavendano/kitavendano/main/images/soi-dog.png" width=300/>
+  </a>
+</p>
+
+<h3>Wow you're still here? Say hi!</h3>
+<p>or not. just a suggestion.</p>
 <p>
   <a href="https://www.instagram.com/_avndnkt/">
     <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" alt="Instagram" height="30" />
@@ -28,4 +44,5 @@
     <img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white" alt="Twitter" />
   </a>
 </p>
+
 <img src="https://spotify-github-profile.vercel.app/api/view?uid=22c6nvrk6mqcw2sebhg4ju5pq&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false" alt="Spotify" />
