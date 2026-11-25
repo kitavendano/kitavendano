@@ -2,8 +2,8 @@
 
 ![Readme Quotes](https://dev-humor.vercel.app/api?type=horizontal&theme=dark)
 
-<h3>Actually I have nothing to show 😂</h3>
-<p>I don't have open source projects/awards/awesome stuff to show off so I'm just gonna show off my rescues. Please say hi to them before you leave. 🐶🐱 </p>
+<h3>My Rescues</h3>
+<p>Please say hi to them before you leave. 🐶🐱 </p>
 <p>
   <img src="https://raw.githubusercontent.com/kitavendano/kitavendano/main/images/itlog.png" height=100/>
   <img src="https://raw.githubusercontent.com/kitavendano/kitavendano/main/images/kerb.png" height=100/>
@@ -51,9 +51,4 @@
   </p>
   <br/>
   <br/>
-  <span>(I really just wanted to add this now playing on spotify thing because it's cool)</span>
-  <p>
-    <img src="https://spotify-github-profile.vercel.app/api/view?uid=22c6nvrk6mqcw2sebhg4ju5pq&cover_image=true&theme=default&show_offline=true&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false" alt="Spotify" />
-    <img src="https://spotify-recently-played-readme.vercel.app/api?user=22c6nvrk6mqcw2sebhg4ju5pq&unique=true&count=7" alt="Recently Played" />
-  </p>
 </div>
